@@ -6,7 +6,6 @@
 2. [Life skills and crafting (Dulfy)](http://dulfy.net/2016/11/02/revelation-online-life-skills-and-crafting-guide/)
 3. [Raw material and NPC map](http://map.revelationonline.co/)
 4. [Social system and life skills](http://forum.mmosite.com/thread/2/331/20150219/Social_Systems_Life_Skill-54e64cced32659013-1.html)
-5. [Detailed overview of crafting and gathering](https://ro.my.com/forum/thread/19636-guide-crafting-and-gathering-overview/)
 
 ## Social
 1. [Friends, Mentoring and Marriage (Dulfy)](http://dulfy.net/2016/10/18/revelation-online-friends-and-mentoring-guide)
